@@ -1,1 +1,2 @@
 # CourseraML
+modifying README
